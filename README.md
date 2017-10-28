@@ -4,6 +4,6 @@ In this project, I took a white wine data set and explored the relations of vari
 
 The HTML link can be found here :
 
-https://rawgit.com/Rithvik-Kranti/R-programming/master/rmdproj.html
+https://rawgit.com/Rithvik-Kranti/EDA--White-Wine-data-set/master/WhiteWineDataEvaluation.html
 
 The RMD file has the R code used to create the HTML in R Markdown format.
